@@ -1,0 +1,97 @@
+mining station:
+  coal: 1
+  copper: 2
+  iron: 3
+  amber: 4
+  aluminium: 5
+  silver: 7
+  gold: 10
+  emerald: 12
+  platinum: 13
+  topaz: 14
+  ruby: 15
+  sapphire: 16
+  diamond: 18
+  amethyst: 18
+  alexandrite: 19
+  titanium ore: 19
+  obsidian: 20
+  uranium: 22
+water collector:
+  water: 5
+oil pump:
+  oil: 21
+chemical mining:
+  sulfur: 100
+  sodium: 100
+  silicon: 100
+smelting:
+  copper bar: 25
+  iron bar: 40
+  aluminium bar: 50
+  steel bar: 180
+  silver bar: 200
+  gold bar: 250
+  steel plate: 1800
+  titanium bar: 3000
+  glass: 450
+crafting:
+  lab flask: 800
+  motherboard: 17000
+  solid propellant: 27000
+  amber charger: 4
+  copper nail: 7
+  curcuits: 2070
+  bomb: 55500
+  graphite: 15
+  gear: 18500
+  green laser: 400
+  solar panel: 69000
+  wire: 15
+  insulated wire: 750
+  accumulator: 9000
+  aluminium bottle: 55
+  battery: 200
+jewel crafting:
+  polished amber: 70
+  polished emerald: 160
+  polished topaz: 200
+  polished sapphire: 230
+  polished ruby: 250
+  polished amethyst: 250
+  polished alexandrite: 270
+  polished diamond: 300
+  polished obsidian: none
+  emerald ring: none
+  amber bracelet: none
+  maya calendar: none
+  haircomb: none
+  obsidian knife: none
+greenhouse:
+  tree seed: 10
+  tree: 193
+  liana seed: 1000
+  liana: 1700
+  grape seed: 1200
+  grape: 1500
+chemistry:
+  hydrogen: 400
+  oxygen: 900
+  clean water: 1200
+  rubber: 4000
+  ethanol: 4200
+  refined oil: 16500
+  diethyl ether: 17000
+uranium enrichment:
+  uranium rod: 17000
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,21 @@
+smelting:
+  - in:
+      copper: 5
+    out: 
+      copper bar: 1
+    time: 10
+  - in:
+      iron: 5
+    out:
+      iron bar: 1
+    time: 15
+  - in:
+      silicon: 2
+    out:
+      glass: 1
+    time: 60
+  - in:
+      aluminium: 5
+    out: 
+      aluminium bar: 1
+    time: 15
